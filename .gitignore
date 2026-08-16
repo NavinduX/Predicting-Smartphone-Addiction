@@ -1,0 +1,19 @@
+# competition data (large, subject to Kaggle terms — don't commit)
+data/
+*.csv
+
+# generated intermediate/output files
+train_features.csv
+test_features.csv
+oof_*.csv
+test_pred_*.csv
+submission.csv
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
