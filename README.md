@@ -95,7 +95,6 @@ pip install pandas numpy scikit-learn lightgbm xgboost catboost torch jupyter
 | PyTorch NN | `08` | Embeddings for categoricals + dense layers — different error profile than trees |
 | **Blend** | `09` | Greedy forward-selection blend of whichever models were run |
 
-*(Fill in actual AUC numbers here as you run each notebook.)*
 
 ## Further improvement ideas
 
